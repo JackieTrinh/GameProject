@@ -1,6 +1,6 @@
 # GameProject
-## super game thing 
-## By Jackie Trinh
+### super game thing 
+### By Jackie Trinh
 
 instructions
 -WASD to move
