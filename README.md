@@ -25,3 +25,10 @@ Discord
 
 *computational artificat*
 
+function
+* The function of this game is to give someone something to enjoy  
+
+purpose
+* The purpose of this game is to see if I can make a game that can reach the front page of the gamemaker workshop, to avenge the time I lost to dank tanks 
+
+
