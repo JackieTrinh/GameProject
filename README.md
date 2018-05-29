@@ -2,13 +2,14 @@
 ### super game thing 
 ### By Jackie Trinh
 
-##instructions
+## Instructions
 
 * W to move up
 * A to move left
 * S to move down
 * D to move right 
 * SPACE BAR to shoot 
+* MOUSE to aim 
 
 * open the gamemaker file to play the game 
 
