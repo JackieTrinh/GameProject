@@ -36,6 +36,6 @@ Discord
 
 ## Screenshots
 
-![alt text]()
+![alt text](https://github.com/JackieTrinh/GameProject/blob/master/unknown1.png)
 
 
