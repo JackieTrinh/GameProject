@@ -36,6 +36,7 @@ Discord
 
 ## Screenshots
 
-![alt text](https://github.com/JackieTrinh/GameProject/blob/master/unknown1.png)
-
+![alt text](https://github.com/JackieTrinh/GameProject/blob/master/unknown1_opt.png)
+![alt text](https://github.com/JackieTrinh/GameProject/blob/master/unknown1_opt.png)
+![alt text](https://github.com/JackieTrinh/GameProject/blob/master/unknown1_opt.png)
 
