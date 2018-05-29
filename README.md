@@ -13,7 +13,7 @@
 
 * open the gamemaker file to play the game 
 
-* this is a platformer game where you jump and stuff 
+* this is a platformer game where you blastjump and stuff 
 
 
 ## Programs Used
@@ -36,6 +36,6 @@ Discord
 
 ## Screenshots
 
-
+![alt text]()
 
 
