@@ -32,7 +32,7 @@ Discord
 
 ## Purpose
 
-* I want to make a game to inspire others, like the games that inspired me
+* I want to make a game to inspire others
 
 ## Screenshots
 
