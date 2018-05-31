@@ -1,5 +1,5 @@
 # GameProject
-### super game thing 
+### Rocket Jump
 ### By Jackie Trinh
 
 ## Instructions
@@ -19,20 +19,17 @@
 ## Programs Used
 
 Gamemaker Language 
-* It's for kids and it took a year of effort to get this good at this language so if I used a more complex program this game would be worse 
+* It's a simple language I like useing
 
 ColorZilla
-* to get colors 
-
-MS paint 
-* I made one of the sprites on it 
+* To get colors for the art
 
 Discord 
-* I used this to download music from Noah who made music for the game and talk with my friend Marcus who helped with the code 
+* I used this to download music from Noah who made music for the game and to talk with my friend Marcus who helped with the code 
 
 ## Purpose
 
-* I want to make a game to inspire others
+* I want to make a games to inspire others
 
 ## Screenshots
 
@@ -42,5 +39,5 @@ Discord
 
 ![alt text](https://github.com/JackieTrinh/GameProject/blob/master/unknown3_opt.png)
 
-##
+## Gameplay Video
 https://youtu.be/VnH7L-4vB8I
