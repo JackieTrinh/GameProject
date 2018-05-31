@@ -64,4 +64,5 @@ for (i = 0; i < instance_number(obj_Psnow); i += 1) {
     Psnow[i].hsp += ((clamp(Psnow[i].x-x,-15,15))*mult1[i])*(random(1)+0.5);
     Psnow[i].vsp += ((clamp(Psnow[i].y-y,-5,25)-15)*mult1[i])*(random(1)+0.5);
 }
+
 }
