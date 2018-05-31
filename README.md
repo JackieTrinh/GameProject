@@ -2,6 +2,10 @@
 ### Rocket Jump
 ### By Jackie Trinh
 
+## Description
+
+This is a game I've been working on for some time now
+
 ## Instructions
 
 * W to move up
@@ -11,10 +15,9 @@
 * SPACE BAR to shoot 
 * MOUSE to aim 
 
+### How to play the game 
+
 * open the gamemaker file to play the game 
-
-* this is a platformer game where you blastjump and stuff 
-
 
 ## Programs Used
 
