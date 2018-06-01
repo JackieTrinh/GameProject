@@ -17,7 +17,7 @@ This is a game I've been working on for some time now
 
 ### How to play the game 
 
-* open the gamemaker file to play the game 
+* open the gamemaker executable to play the game 
 
 ## Programs Used
 
