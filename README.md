@@ -2,10 +2,6 @@
 ### Rocket Jump
 ### By Jackie Trinh
 
-## Description
-
-This is a game I've been working on for some time now
-
 ## Instructions
 
 * W to move up
