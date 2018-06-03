@@ -2,6 +2,10 @@
 ### Rocket Jump
 ### By Jackie Trinh
 
+## Description
+
+* This is a game I drew and programed in a month. 
+
 ## Instructions
 
 * W to move up
@@ -13,22 +17,26 @@
 
 ### How to play the game 
 
-* open the gamemaker executable to play the game 
+* open the gamemaker executable to play the game. 
 
 ## Programs Used
 
 Gamemaker Language 
-* It's a simple language I like useing
+* It's a simple language I like useing.
 
 ColorZilla
-* To get colors for the art
+* To get colors for the art.
 
 Discord 
-* I used this to download music from Noah who made music for the game and to talk with my friend Marcus who helped with the code 
+* I used this to download music from Noah who made music for the game and to talk with my friend Marcus who helped with the code. 
 
 ## Purpose
 
-* I want to make a games to inspire others
+* I made this game to show off what I can do and for people to enjoy.
+
+## Function
+
+* In this game your goal is to get to the end. 
 
 ## Screenshots
 
@@ -43,22 +51,22 @@ https://youtu.be/VnH7L-4vB8I
 
 ## Information about the abstactions
 
-//snow 
+>//snow 
 
-if (script_execute(touching)) {
+>if (script_execute(touching)) {
 
-//givning each snow a part in an array 
+>//givning each snow a part in an array 
 
-for (i = 0; i < instance_number(obj_Psnow); i += 1) {
-    Psnow[i] = instance_find(obj_Psnow,i);
-    mult1[i] = clamp(1-(point_distance(x,y,Psnow[i].x,Psnow[i].y)/100),0,1);
+>for (i = 0; i < instance_number(obj_Psnow); i += 1) {
+>    Psnow[i] = instance_find(obj_Psnow,i);
+>    mult1[i] = clamp(1-(point_distance(x,y,Psnow[i].x,Psnow[i].y)/100),0,1);
     
-    if(mult1[i]<0.1) {
-        mult1[i] = 0;
-    }
-    //giving snow knockback
-    Psnow[i].hsp += ((clamp(Psnow[i].x-x,-15,15))*mult1[i])*(random(1)+0.5);
-    Psnow[i].vsp += ((clamp(Psnow[i].y-y,-5,25)-15)*mult1[i])*(random(1)+0.5);
-}
+>    if(mult1[i]<0.1) {
+>        mult1[i] = 0;
+>    }
+>    //giving snow knockback
+>   Psnow[i].hsp += ((clamp(Psnow[i].x-x,-15,15))*mult1[i])*(random(1)+0.5);
+>   Psnow[i].vsp += ((clamp(Psnow[i].y-y,-5,25)-15)*mult1[i])*(random(1)+0.5);
+>}
 
-}
+>}
