@@ -49,7 +49,7 @@ Discord
 ## Gameplay Video
 https://youtu.be/VnH7L-4vB8I
 
-## Information about the abstactions
+## Code Development
 
 >//snow 
 
