@@ -32,11 +32,11 @@ Discord
 
 ## Purpose
 
-* 
+* I the future I want to be paid to make games so  I made this program to show off what I can do.
 
 ## Function
 
-* 
+* The function of this game is to be an enjoyable experence for the player to play. 
 
 ## Screenshots
 
