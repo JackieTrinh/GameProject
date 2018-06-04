@@ -32,11 +32,11 @@ Discord
 
 ## Purpose
 
-* I made this game to show off what I can do and for people to enjoy.
+* 
 
 ## Function
 
-* In this game your goal is to get to the end. 
+* 
 
 ## Screenshots
 
@@ -48,6 +48,8 @@ Discord
 
 ## Gameplay Video
 https://youtu.be/VnH7L-4vB8I
+
+* Made with OBS, Blender and WMM
 
 ## Code Development
 
