@@ -17,7 +17,7 @@
 
 ### How to play the game 
 
-* open the gamemaker executable to play the game. 
+* Open the GameMaker executable to play the game. 
 
 ## Programs Used
 
