@@ -22,7 +22,7 @@
 ## Programs Used
 
 Gamemaker Language 
-* It's a simple language I like useing.
+* It's a simple language I like using.
 
 ColorZilla
 * To get colors for the art.
