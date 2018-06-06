@@ -40,7 +40,7 @@ Discord
 
 ## Abstractions
 
-* 
+* Abstractions area everywhere in this game, the best example being the player pressing a button to move
 
 ## Screenshots
 
